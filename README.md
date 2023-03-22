@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Brian Juan</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🔭 I’m currently working on **Crud Python**
+- 🔭 I’m currently working on **Portfolio **
 
-- 🌱 I’m currently learning **Javascript, Ingles**
-
-- 💬 Ask me about **html, css, python**
+- 🌱 I’m currently learning **Django  y Inglés
+- 💬 Ask me about **html, css, python, sql**
 
 - 📫 How to reach me **brianjuan058@gmail.com**
 
