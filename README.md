@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Portfolio **
 
-- 🌱 I’m currently learning **Django  y Inglés
+- 🌱 I’m currently learning **Django and Inglés
 - 💬 Ask me about **html, css, python, sql**
 
 - 📫 How to reach me **brianjuan058@gmail.com**
